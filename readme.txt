@@ -1,1 +1,1 @@
-Restaurant_Managment_System_UsingChatbot
+Restaurant Management aystem using Chatbot
